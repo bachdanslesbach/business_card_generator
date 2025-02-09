@@ -3,7 +3,7 @@ VERSION:3.0
 FN:Name SURNAME
 N:SURNAME;NAME;;;
 TITLE:
-EMAIL;TYPE=WORK:email@example.com
+EMAIL;TYPE=WORK:typeyouremailhere
 TEL;TYPE=CELL:+123456789
 URL:https://www.yourwebsite.com
 NOTE:Scan this QR code to save my contact info!
